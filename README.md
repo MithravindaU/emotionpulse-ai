@@ -6,25 +6,26 @@
 
 ## 🚀 Overview
 
-EmotionPulse AI is an intelligent facial emotion recognition system capable of detecting and classifying human emotions using computer vision and deep learning techniques.
+EmotionPulse AI is a A beginner-friendly machine learning project that explores facial emotion recognition using computer vision techniques. The system classifies facial images into emotion categories and demonstrates the workflow of data preprocessing, model training, and prediction using Python-based ML tools.
 
 ---
 
 ## 🧠 Technologies Used
 
 - Python
+- NumPy
 - OpenCV
-- TensorFlow / Keras
-- CNN
+- TensorFlow/Keras (if used)
+- Matplotlib
 
 ---
 
 ## 📊 Features
 
-- Real-time emotion detection
-- Facial expression analysis
-- Deep learning-based classification
-- Webcam emotion recognition
+- Image preprocessing
+- Emotion classification
+- Prediction visualization
+- Basic model evaluation
 
 ---
 
@@ -33,31 +34,22 @@ EmotionPulse AI is an intelligent facial emotion recognition system capable of d
 - Happy
 - Sad
 - Angry
-- Fear
-- Surprise
-- Neutral
 
 ---
 
-## 💬 Example Workflow
-
-User opens webcam  
-↓  
-System detects facial landmarks  
-↓  
-CNN analyzes expression patterns  
-↓  
-Predicted mood displayed in real time
-
----
 
 ## 🔮 Future Improvements
 
 - Voice emotion analysis
+- web cam real time analysis 
 - Emotion trend tracking
 - AI mental wellness assistant
 - Multi-face detection system
+- Improved model architecture
+- Larger datasets
 
+
+  
 ---
 
 ## 👩‍💻 Author
